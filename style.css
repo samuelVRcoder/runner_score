@@ -18,7 +18,7 @@
     position: absolute;
     bottom: 0;
     width: 60px;
-    animation: pipe-animations 2.5s infinite linear;
+    animation: pipe-animations 4.5s infinite linear;
 }
 
 .mario{
@@ -113,6 +113,6 @@
         position: absolute;
         bottom: 0;
         width: 30px;
-        animation: pipe-animations 3.5s infinite linear;
+        animation: pipe-animations 4.5s infinite linear;
     }
 }
