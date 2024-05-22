@@ -47,7 +47,7 @@ const loop = setInterval(() => {
         mario.style.bottom = `${marioPosition}px`;
 
         mario.src = 'game-over.png';
-        mario.style.width = '70px';
+        /*mario.style.width = '70px';*/
         mario.style.marginLeft = '35px';
 
         cloud.style.animation = 'cloud 20s infinite linear';
@@ -77,7 +77,7 @@ const restart = () => {
     pipe.style.left = ``;
 
     mario.src = 'mario.gif';
-    mario.style.width = '130px';
+    /*mario.style.width = '130px';*/
     mario.style.bottom = '0px';
     mario.style.marginLeft = '';
     mario.style.animation = '';
