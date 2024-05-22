@@ -110,7 +110,7 @@ const restart = () => {
             mario.style.bottom = `${marioPosition}px`;
     
             mario.src = 'game-over.png';
-            mario.style.width = '70px';
+            /*mario.style.width = '70px';*/
             mario.style.marginLeft = '35px';
     
             cloud.style.animation = 'cloud 20s infinite linear';
