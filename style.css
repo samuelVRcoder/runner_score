@@ -112,7 +112,7 @@
     .pipe{
         position: absolute;
         bottom: 0;
-        width: 50px;
+        width: 30px;
         animation: pipe-animations 3.5s infinite linear;
     }
 }
