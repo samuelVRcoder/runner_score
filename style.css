@@ -110,9 +110,9 @@
     }
 }
 
-@media (max-width: 620px){
+@media (max-width: 600px){
     .mario{
-        width: 110px;
+        width: 70px;
         position: absolute;
         bottom: 0px;
     }
