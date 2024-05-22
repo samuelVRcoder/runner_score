@@ -18,7 +18,7 @@ const jump = () => {
 
         mario.classList.remove('jump');
 
-    }, 800);
+    }, 850);
 }
 
 const loop = setInterval(() => {
