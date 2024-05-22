@@ -48,7 +48,7 @@ const loop = setInterval(() => {
 
         mario.src = 'game-over.png';
         /*mario.style.width = '70px';*/
-        mario.style.marginLeft = '35px';
+        /*mario.style.marginLeft = '35px';*/
 
         cloud.style.animation = 'cloud 20s infinite linear';
         cloud.style.left = `${cloudPosition}px`;
@@ -111,7 +111,7 @@ const restart = () => {
     
             mario.src = 'game-over.png';
             /*mario.style.width = '70px';*/
-            mario.style.marginLeft = '35px';
+            /*mario.style.marginLeft = '35px';*/
     
             cloud.style.animation = 'cloud 20s infinite linear';
             cloud.style.left = `${cloudPosition}px`;
