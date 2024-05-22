@@ -27,14 +27,6 @@
     bottom: 0px;
 }
 
-@media only screen and (max-width: 600px) {
-  .mario {
-   width: 80px;
-   botton: 0px;
-   position: absolute;
-  }
-}
-
 .jump{
     animation: mario-animation 500ms ease-out;
 }
@@ -88,7 +80,7 @@
     }
 
     50%{
-        bottom: 120px;
+        bottom: 160px;
     }
 
     60%{
