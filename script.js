@@ -78,7 +78,7 @@ const restart = () => {
 
     mario.src = 'mario.gif';
     /*mario.style.width = '130px';*/
-    mario.style.bottom = '0px';
+    /*mario.style.bottom = '0px';*/
     mario.style.marginLeft = '';
     mario.style.animation = '';
 
