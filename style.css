@@ -80,7 +80,7 @@
     }
 
     50%{
-        bottom: 160px;
+        bottom: 120px;
     }
 
     60%{
@@ -104,7 +104,7 @@
 
 @media (max-width: 600px){
     .mario{
-        width: 70px;
+        width: 90px;
         position: absolute;
         bottom: 0px;
     }
